@@ -21,6 +21,6 @@ pydantic-sqlalchemy: https://github.com/tiangolo/pydantic-sqlalchemy
 
 
 ## Video Demo
-Part 1: https://youtu.be/V66S__wdhmc
-Part 2: https://youtu.be/PtJGi8QFY5M
-Part 3: https://youtu.be/UA3IvRvawUc
+Part 1: https://youtu.be/V66S__wdhmc<br/>
+Part 2: https://youtu.be/PtJGi8QFY5M<br/>
+Part 3: https://youtu.be/UA3IvRvawUc<br/>
